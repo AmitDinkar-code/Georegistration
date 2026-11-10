@@ -1,0 +1,265 @@
+factor,level,trial,detector,seconds,n_keypoints,n_matches,n_inliers,model,gt_rmse_px,outcome
+rotation_deg,0,0,sift,0.065,1620,970,759,affine,0.031,accepted_correct
+rotation_deg,0,0,orb,0.106,7024,2092,1533,affine,0.173,accepted_correct
+rotation_deg,0,1,sift,0.057,1467,825,646,affine,0.044,accepted_correct
+rotation_deg,0,1,orb,0.073,6991,1937,1410,affine,0.319,accepted_correct
+rotation_deg,0,2,sift,0.053,1516,873,687,affine,0.056,accepted_correct
+rotation_deg,0,2,orb,0.073,5977,1743,1247,affine,0.205,accepted_correct
+rotation_deg,15,0,sift,0.059,1744,995,782,affine,0.11,accepted_correct
+rotation_deg,15,0,orb,0.076,7239,1990,1412,affine,0.267,accepted_correct
+rotation_deg,15,1,sift,0.067,1672,860,666,affine,0.105,accepted_correct
+rotation_deg,15,1,orb,0.075,6604,1847,1326,affine,0.27,accepted_correct
+rotation_deg,15,2,sift,0.054,1609,907,706,affine,0.144,accepted_correct
+rotation_deg,15,2,orb,0.067,5984,1765,1270,affine,0.296,accepted_correct
+rotation_deg,45,0,sift,0.058,1652,967,759,affine,0.273,accepted_correct
+rotation_deg,45,0,orb,0.077,7261,2092,1510,affine,0.495,accepted_correct
+rotation_deg,45,1,sift,0.055,1534,857,673,affine,0.307,accepted_correct
+rotation_deg,45,1,orb,0.069,6396,1740,1213,affine,0.766,accepted_correct
+rotation_deg,45,2,sift,0.067,1690,1024,811,affine,0.307,accepted_correct
+rotation_deg,45,2,orb,0.067,5896,1829,1299,affine,0.534,accepted_correct
+rotation_deg,90,0,sift,0.058,1596,959,754,affine,0.527,accepted_correct
+rotation_deg,90,0,orb,0.072,6859,2003,1439,affine,0.92,accepted_correct
+rotation_deg,90,1,sift,0.052,1420,782,616,affine,0.52,accepted_correct
+rotation_deg,90,1,orb,0.07,6611,1888,1324,affine,0.994,accepted_correct
+rotation_deg,90,2,sift,0.053,1575,882,695,affine,0.561,accepted_correct
+rotation_deg,90,2,orb,0.07,6682,1992,1421,affine,0.829,accepted_correct
+rotation_deg,180,0,sift,0.057,1602,952,746,affine,0.736,accepted_correct
+rotation_deg,180,0,orb,0.072,6853,2014,1391,affine,1.162,accepted_correct
+rotation_deg,180,1,sift,0.077,1514,855,671,affine,0.736,accepted_correct
+rotation_deg,180,1,orb,0.074,7033,2038,1415,affine,1.044,accepted_correct
+rotation_deg,180,2,sift,0.064,1612,909,715,affine,0.764,accepted_correct
+rotation_deg,180,2,orb,0.076,7084,1977,1309,affine,0.991,accepted_correct
+scale (src px per ref px),0.3,0,sift,0.04,492,291,228,affine,0.814,accepted_correct
+scale (src px per ref px),0.3,0,orb,0.023,803,180,97,homography,2.021,accepted_correct
+scale (src px per ref px),0.3,1,sift,0.04,376,199,157,affine,0.785,accepted_correct
+scale (src px per ref px),0.3,1,orb,0.023,715,184,96,homography,2.656,accepted_correct
+scale (src px per ref px),0.3,2,sift,0.059,385,221,175,affine,0.839,accepted_correct
+scale (src px per ref px),0.3,2,orb,0.022,523,143,83,homography,1.308,accepted_correct
+scale (src px per ref px),0.5,0,sift,0.043,952,585,459,affine,0.389,accepted_correct
+scale (src px per ref px),0.5,0,orb,0.04,2988,1071,727,affine,0.649,accepted_correct
+scale (src px per ref px),0.5,1,sift,0.042,850,463,365,affine,0.348,accepted_correct
+scale (src px per ref px),0.5,1,orb,0.038,2647,866,566,affine,0.784,accepted_correct
+scale (src px per ref px),0.5,2,sift,0.041,789,484,385,affine,0.359,accepted_correct
+scale (src px per ref px),0.5,2,orb,0.034,2044,721,472,affine,0.711,accepted_correct
+scale (src px per ref px),1.0,0,sift,0.057,1771,1058,825,affine,0.056,accepted_correct
+scale (src px per ref px),1.0,0,orb,0.077,7633,2937,2195,affine,0.338,accepted_correct
+scale (src px per ref px),1.0,1,sift,0.056,1951,1115,875,affine,0.081,accepted_correct
+scale (src px per ref px),1.0,1,orb,0.077,7414,3015,2251,affine,0.301,accepted_correct
+scale (src px per ref px),1.0,2,sift,0.056,1922,1171,917,affine,0.101,accepted_correct
+scale (src px per ref px),1.0,2,orb,0.077,7126,2804,2090,affine,0.464,accepted_correct
+scale (src px per ref px),2.0,0,sift,0.095,2347,1202,946,affine,0.179,accepted_correct
+scale (src px per ref px),2.0,0,orb,0.085,7939,1719,1281,affine,0.318,accepted_correct
+scale (src px per ref px),2.0,1,sift,0.082,2469,1127,882,affine,0.182,accepted_correct
+scale (src px per ref px),2.0,1,orb,0.085,8000,1714,1259,affine,0.21,accepted_correct
+scale (src px per ref px),2.0,2,sift,0.087,2373,1178,924,affine,0.208,accepted_correct
+scale (src px per ref px),2.0,2,orb,0.084,7914,1685,1258,affine,0.394,accepted_correct
+scale (src px per ref px),3.0,0,sift,0.152,2282,1140,887,affine,0.244,accepted_correct
+scale (src px per ref px),3.0,0,orb,0.085,7764,879,608,affine,0.386,accepted_correct
+scale (src px per ref px),3.0,1,sift,0.122,2434,1074,828,affine,0.236,accepted_correct
+scale (src px per ref px),3.0,1,orb,0.091,8000,888,604,affine,0.399,accepted_correct
+scale (src px per ref px),3.0,2,sift,0.117,2375,1124,876,affine,0.258,accepted_correct
+scale (src px per ref px),3.0,2,orb,0.095,7931,858,597,affine,0.385,accepted_correct
+"brightness (gain,bias)","(1.0, 0)",0,sift,0.056,1674,995,777,affine,0.068,accepted_correct
+"brightness (gain,bias)","(1.0, 0)",0,orb,0.073,7161,1963,1393,affine,0.227,accepted_correct
+"brightness (gain,bias)","(1.0, 0)",1,sift,0.056,1626,861,668,affine,0.121,accepted_correct
+"brightness (gain,bias)","(1.0, 0)",1,orb,0.068,6565,1819,1266,affine,0.366,accepted_correct
+"brightness (gain,bias)","(1.0, 0)",2,sift,0.054,1622,902,710,affine,0.104,accepted_correct
+"brightness (gain,bias)","(1.0, 0)",2,orb,0.062,5741,1740,1250,affine,0.405,accepted_correct
+"brightness (gain,bias)","(0.6, 0)",0,sift,0.054,1704,1003,788,affine,0.081,accepted_correct
+"brightness (gain,bias)","(0.6, 0)",0,orb,0.071,7211,1935,1387,affine,0.243,accepted_correct
+"brightness (gain,bias)","(0.6, 0)",1,sift,0.053,1615,852,664,affine,0.1,accepted_correct
+"brightness (gain,bias)","(0.6, 0)",1,orb,0.067,6674,1836,1288,affine,0.399,accepted_correct
+"brightness (gain,bias)","(0.6, 0)",2,sift,0.055,1623,894,697,affine,0.109,accepted_correct
+"brightness (gain,bias)","(0.6, 0)",2,orb,0.067,5826,1702,1231,affine,0.291,accepted_correct
+"brightness (gain,bias)","(1.4, 20)",0,sift,0.059,2300,1094,854,affine,0.093,accepted_correct
+"brightness (gain,bias)","(1.4, 20)",0,orb,0.077,7457,1838,1316,affine,0.295,accepted_correct
+"brightness (gain,bias)","(1.4, 20)",1,sift,0.061,2072,908,699,affine,0.094,accepted_correct
+"brightness (gain,bias)","(1.4, 20)",1,orb,0.075,7324,1735,1207,affine,0.341,accepted_correct
+"brightness (gain,bias)","(1.4, 20)",2,sift,0.061,2061,963,746,affine,0.096,accepted_correct
+"brightness (gain,bias)","(1.4, 20)",2,orb,0.074,7154,1687,1212,affine,0.248,accepted_correct
+"brightness (gain,bias)","(0.3, -30)",0,sift,0.055,1709,767,591,affine,0.082,accepted_correct
+"brightness (gain,bias)","(0.3, -30)",0,orb,0.073,7239,1556,1066,affine,0.288,accepted_correct
+"brightness (gain,bias)","(0.3, -30)",1,sift,0.055,1772,707,542,affine,0.08,accepted_correct
+"brightness (gain,bias)","(0.3, -30)",1,orb,0.071,7193,1570,1085,affine,0.314,accepted_correct
+"brightness (gain,bias)","(0.3, -30)",2,sift,0.054,1703,710,537,affine,0.104,accepted_correct
+"brightness (gain,bias)","(0.3, -30)",2,orb,0.067,6343,1452,1018,affine,0.174,accepted_correct
+noise sigma,0,0,sift,0.056,1674,995,777,affine,0.068,accepted_correct
+noise sigma,0,0,orb,0.073,7161,1963,1393,affine,0.227,accepted_correct
+noise sigma,0,1,sift,0.056,1626,861,668,affine,0.121,accepted_correct
+noise sigma,0,1,orb,0.069,6565,1819,1266,affine,0.366,accepted_correct
+noise sigma,0,2,sift,0.053,1622,902,710,affine,0.104,accepted_correct
+noise sigma,0,2,orb,0.061,5741,1740,1250,affine,0.405,accepted_correct
+noise sigma,20,0,sift,0.059,1838,274,198,affine,0.132,accepted_correct
+noise sigma,20,0,orb,0.08,7571,1397,898,affine,0.439,accepted_correct
+noise sigma,20,1,sift,0.06,2021,299,212,affine,0.112,accepted_correct
+noise sigma,20,1,orb,0.079,7552,1423,932,affine,0.299,accepted_correct
+noise sigma,20,2,sift,0.056,1884,290,207,affine,0.15,accepted_correct
+noise sigma,20,2,orb,0.079,7441,1331,837,affine,0.274,accepted_correct
+noise sigma,40,0,sift,0.056,1579,156,113,affine,0.493,accepted_correct
+noise sigma,40,0,orb,0.078,7657,1000,590,affine,0.336,accepted_correct
+noise sigma,40,1,sift,0.06,1567,156,108,affine,0.242,accepted_correct
+noise sigma,40,1,orb,0.079,7641,1020,599,affine,0.402,accepted_correct
+noise sigma,40,2,sift,0.053,1502,148,99,affine,0.322,accepted_correct
+noise sigma,40,2,orb,0.088,7611,916,540,affine,0.458,accepted_correct
+noise sigma,70,0,sift,0.053,1271,78,53,affine,1.075,accepted_correct
+noise sigma,70,0,orb,0.078,7725,607,312,affine,1.44,accepted_correct
+noise sigma,70,1,sift,0.054,1296,86,59,affine,0.583,accepted_correct
+noise sigma,70,1,orb,0.082,7713,623,339,affine,0.583,accepted_correct
+noise sigma,70,2,sift,0.053,1184,67,47,homography,0.91,accepted_correct
+noise sigma,70,2,orb,0.078,7671,514,265,affine,1.535,accepted_correct
+noise sigma,100,0,sift,0.05,1133,45,22,affine,1.458,accepted_correct
+noise sigma,100,0,orb,0.078,7724,367,177,affine,1.765,accepted_correct
+noise sigma,100,1,sift,0.052,1153,50,29,affine,0.864,accepted_correct
+noise sigma,100,1,orb,0.079,7756,384,174,affine,0.75,accepted_correct
+noise sigma,100,2,sift,0.047,1093,24,19,affine,1.304,accepted_correct
+noise sigma,100,2,orb,0.077,7714,290,128,homography,1.378,accepted_correct
+occlusion fraction,0.0,0,sift,0.054,1674,995,777,affine,0.068,accepted_correct
+occlusion fraction,0.0,0,orb,0.07,7161,1963,1393,affine,0.227,accepted_correct
+occlusion fraction,0.0,1,sift,0.059,1626,861,668,affine,0.121,accepted_correct
+occlusion fraction,0.0,1,orb,0.068,6565,1819,1266,affine,0.366,accepted_correct
+occlusion fraction,0.0,2,sift,0.058,1622,902,710,affine,0.104,accepted_correct
+occlusion fraction,0.0,2,orb,0.061,5741,1740,1250,affine,0.405,accepted_correct
+occlusion fraction,0.3,0,sift,0.053,877,398,307,affine,0.065,accepted_correct
+occlusion fraction,0.3,0,orb,0.051,4573,1038,732,affine,0.186,accepted_correct
+occlusion fraction,0.3,1,sift,0.05,831,366,285,affine,0.113,accepted_correct
+occlusion fraction,0.3,1,orb,0.041,3029,717,512,affine,0.247,accepted_correct
+occlusion fraction,0.3,2,sift,0.051,872,366,281,affine,0.081,accepted_correct
+occlusion fraction,0.3,2,orb,0.046,3483,878,629,affine,0.494,accepted_correct
+occlusion fraction,0.5,0,sift,0.049,705,307,239,affine,0.13,accepted_correct
+occlusion fraction,0.5,0,orb,0.047,4075,813,567,affine,0.249,accepted_correct
+occlusion fraction,0.5,1,sift,0.049,642,238,183,affine,0.139,accepted_correct
+occlusion fraction,0.5,1,orb,0.038,2827,362,251,affine,0.426,accepted_correct
+occlusion fraction,0.5,2,sift,0.049,518,137,103,affine,0.097,accepted_correct
+occlusion fraction,0.5,2,orb,0.036,2366,279,191,affine,0.351,accepted_correct
+occlusion fraction,0.7,0,sift,0.049,390,155,119,affine,0.185,accepted_correct
+occlusion fraction,0.7,0,orb,0.033,2130,360,241,affine,0.814,accepted_correct
+occlusion fraction,0.7,1,sift,0.046,415,115,85,affine,0.139,accepted_correct
+occlusion fraction,0.7,1,orb,0.029,1503,105,59,affine,0.256,accepted_correct
+occlusion fraction,0.7,2,sift,0.048,410,75,51,affine,0.171,accepted_correct
+occlusion fraction,0.7,2,orb,0.033,2051,175,116,affine,0.616,accepted_correct
+occlusion fraction,0.85,0,sift,0.049,0,0,0,,,rejected
+occlusion fraction,0.85,0,orb,0.028,0,0,0,,,rejected
+occlusion fraction,0.85,1,sift,0.056,161,25,22,affine,0.181,accepted_correct
+occlusion fraction,0.85,1,orb,0.023,0,0,0,,,rejected
+occlusion fraction,0.85,2,sift,0.048,0,0,0,,,rejected
+occlusion fraction,0.85,2,orb,0.027,0,0,0,,,rejected
+"low texture (blur px, contrast)","(0, 1.0)",0,sift,0.055,1674,995,777,affine,0.068,accepted_correct
+"low texture (blur px, contrast)","(0, 1.0)",0,orb,0.07,7161,1963,1393,affine,0.227,accepted_correct
+"low texture (blur px, contrast)","(0, 1.0)",1,sift,0.055,1626,861,668,affine,0.121,accepted_correct
+"low texture (blur px, contrast)","(0, 1.0)",1,orb,0.067,6565,1819,1266,affine,0.366,accepted_correct
+"low texture (blur px, contrast)","(0, 1.0)",2,sift,0.055,1622,902,710,affine,0.104,accepted_correct
+"low texture (blur px, contrast)","(0, 1.0)",2,orb,0.06,5741,1740,1250,affine,0.405,accepted_correct
+"low texture (blur px, contrast)","(4, 0.4)",0,sift,0.035,449,334,265,affine,0.055,accepted_correct
+"low texture (blur px, contrast)","(4, 0.4)",0,orb,0.027,3092,1212,826,affine,0.318,accepted_correct
+"low texture (blur px, contrast)","(4, 0.4)",1,sift,0.036,430,332,265,affine,0.094,accepted_correct
+"low texture (blur px, contrast)","(4, 0.4)",1,orb,0.027,3034,1159,785,affine,0.202,accepted_correct
+"low texture (blur px, contrast)","(4, 0.4)",2,sift,0.035,370,276,220,affine,0.116,accepted_correct
+"low texture (blur px, contrast)","(4, 0.4)",2,orb,0.023,2258,888,622,affine,0.478,accepted_correct
+"low texture (blur px, contrast)","(8, 0.25)",0,sift,0.03,180,126,100,affine,0.099,accepted_correct
+"low texture (blur px, contrast)","(8, 0.25)",0,orb,0.017,2355,619,356,affine,0.289,accepted_correct
+"low texture (blur px, contrast)","(8, 0.25)",1,sift,0.032,168,116,92,affine,0.13,accepted_correct
+"low texture (blur px, contrast)","(8, 0.25)",1,orb,0.014,1636,506,268,affine,0.436,accepted_correct
+"low texture (blur px, contrast)","(8, 0.25)",2,sift,0.03,143,108,85,affine,0.204,accepted_correct
+"low texture (blur px, contrast)","(8, 0.25)",2,orb,0.014,1240,436,270,affine,0.407,accepted_correct
+"low texture (blur px, contrast)","(12, 0.15)",0,sift,0.034,373,123,89,affine,0.194,accepted_correct
+"low texture (blur px, contrast)","(12, 0.15)",0,orb,0.02,2883,720,470,affine,0.262,accepted_correct
+"low texture (blur px, contrast)","(12, 0.15)",1,sift,0.031,211,83,58,affine,0.186,accepted_correct
+"low texture (blur px, contrast)","(12, 0.15)",1,orb,0.016,2221,504,304,affine,0.351,accepted_correct
+"low texture (blur px, contrast)","(12, 0.15)",2,sift,0.032,145,89,70,affine,0.175,accepted_correct
+"low texture (blur px, contrast)","(12, 0.15)",2,orb,0.015,1789,474,302,affine,0.362,accepted_correct
+"low texture (blur px, contrast)","(16, 0.08)",0,sift,0.035,398,191,139,affine,0.126,accepted_correct
+"low texture (blur px, contrast)","(16, 0.08)",0,orb,0.021,2803,845,533,affine,0.326,accepted_correct
+"low texture (blur px, contrast)","(16, 0.08)",1,sift,0.034,336,130,90,affine,0.143,accepted_correct
+"low texture (blur px, contrast)","(16, 0.08)",1,orb,0.018,2569,664,401,affine,0.404,accepted_correct
+"low texture (blur px, contrast)","(16, 0.08)",2,sift,0.035,304,140,106,affine,0.175,accepted_correct
+"low texture (blur px, contrast)","(16, 0.08)",2,orb,0.017,1961,597,373,affine,0.471,accepted_correct
+source resolution (x ref),1.0,0,sift,0.054,1771,1058,825,affine,0.056,accepted_correct
+source resolution (x ref),1.0,0,orb,0.079,7633,2937,2195,affine,0.338,accepted_correct
+source resolution (x ref),1.0,1,sift,0.055,1951,1115,875,affine,0.081,accepted_correct
+source resolution (x ref),1.0,1,orb,0.075,7414,3015,2251,affine,0.301,accepted_correct
+source resolution (x ref),1.0,2,sift,0.055,1922,1171,917,affine,0.101,accepted_correct
+source resolution (x ref),1.0,2,orb,0.073,7126,2804,2090,affine,0.464,accepted_correct
+source resolution (x ref),0.35,0,sift,0.036,573,323,252,affine,0.676,accepted_correct
+source resolution (x ref),0.35,0,orb,0.027,1258,420,252,affine,1.421,accepted_correct
+source resolution (x ref),0.35,1,sift,0.033,466,236,183,affine,0.642,accepted_correct
+source resolution (x ref),0.35,1,orb,0.025,1119,346,187,homography,2.0,accepted_correct
+source resolution (x ref),0.35,2,sift,0.036,510,293,230,affine,0.648,accepted_correct
+source resolution (x ref),0.35,2,orb,0.023,870,275,167,affine,1.582,accepted_correct
+source resolution (x ref),0.2,0,sift,0.036,228,125,94,affine,1.498,accepted_correct
+source resolution (x ref),0.2,0,orb,0.016,0,0,0,,,rejected
+source resolution (x ref),0.2,1,sift,0.058,169,85,67,affine,1.414,accepted_correct
+source resolution (x ref),0.2,1,orb,0.023,0,0,0,,,rejected
+source resolution (x ref),0.2,2,sift,0.056,184,79,61,affine,1.549,accepted_correct
+source resolution (x ref),0.2,2,orb,0.026,0,0,0,,,rejected
+source resolution (x ref),0.12,0,sift,0.055,67,27,26,affine,2.235,accepted_correct
+source resolution (x ref),0.12,0,orb,0.003,0,0,0,,,rejected
+source resolution (x ref),0.12,1,sift,0.061,0,0,0,,,rejected
+source resolution (x ref),0.12,1,orb,0.0,0,0,0,,,rejected
+source resolution (x ref),0.12,2,sift,0.05,0,0,0,,,rejected
+source resolution (x ref),0.12,2,orb,0.001,0,0,0,,,rejected
+source resolution (x ref),0.08,0,sift,0.053,0,0,0,,,rejected
+source resolution (x ref),0.08,0,orb,0.001,0,0,0,,,rejected
+source resolution (x ref),0.08,1,sift,0.049,0,0,0,,,rejected
+source resolution (x ref),0.08,1,orb,0.0,0,0,0,,,rejected
+source resolution (x ref),0.08,2,sift,0.001,0,0,0,,,rejected
+source resolution (x ref),0.08,2,orb,0.001,0,0,0,,,rejected
+perspective strength,0.0,0,sift,0.075,1674,995,777,affine,0.068,accepted_correct
+perspective strength,0.0,0,orb,0.077,7161,1963,1393,affine,0.227,accepted_correct
+perspective strength,0.0,1,sift,0.113,1626,861,668,affine,0.121,accepted_correct
+perspective strength,0.0,1,orb,0.104,6565,1819,1266,affine,0.366,accepted_correct
+perspective strength,0.0,2,sift,0.111,1622,902,710,affine,0.104,accepted_correct
+perspective strength,0.0,2,orb,0.083,5741,1740,1250,affine,0.405,accepted_correct
+perspective strength,0.0002,0,sift,0.123,1602,965,760,homography,0.086,accepted_correct
+perspective strength,0.0002,0,orb,0.112,7150,2156,1561,homography,0.211,accepted_correct
+perspective strength,0.0002,1,sift,0.062,1556,837,657,homography,0.092,accepted_correct
+perspective strength,0.0002,1,orb,0.087,6539,1997,1432,homography,0.308,accepted_correct
+perspective strength,0.0002,2,sift,0.062,1560,881,688,homography,0.098,accepted_correct
+perspective strength,0.0002,2,orb,0.065,5742,1943,1432,homography,0.289,accepted_correct
+perspective strength,0.0004,0,sift,0.061,1647,975,769,homography,0.075,accepted_correct
+perspective strength,0.0004,0,orb,0.075,7169,2324,1707,homography,0.185,accepted_correct
+perspective strength,0.0004,1,sift,0.062,1637,838,650,homography,0.095,accepted_correct
+perspective strength,0.0004,1,orb,0.072,6517,2106,1524,homography,0.271,accepted_correct
+perspective strength,0.0004,2,sift,0.06,1508,846,663,homography,0.09,accepted_correct
+perspective strength,0.0004,2,orb,0.065,5819,2000,1448,homography,0.332,accepted_correct
+perspective strength,0.0006,0,sift,0.061,1651,949,739,homography,0.071,accepted_correct
+perspective strength,0.0006,0,orb,0.075,7102,2215,1635,homography,0.235,accepted_correct
+perspective strength,0.0006,1,sift,0.061,1608,822,645,homography,0.084,accepted_correct
+perspective strength,0.0006,1,orb,0.07,6516,2075,1478,homography,0.358,accepted_correct
+perspective strength,0.0006,2,sift,0.058,1484,808,630,homography,0.098,accepted_correct
+perspective strength,0.0006,2,orb,0.064,5846,1912,1386,homography,0.827,accepted_correct
+perspective strength,0.0008,0,sift,0.062,1619,887,698,homography,0.07,accepted_correct
+perspective strength,0.0008,0,orb,0.076,7102,2066,1495,homography,0.301,accepted_correct
+perspective strength,0.0008,1,sift,0.063,1552,781,607,homography,0.083,accepted_correct
+perspective strength,0.0008,1,orb,0.07,6644,2024,1409,homography,0.665,accepted_correct
+perspective strength,0.0008,2,sift,0.059,1430,755,592,homography,0.127,accepted_correct
+perspective strength,0.0008,2,orb,0.066,5861,1819,1313,homography,0.297,accepted_correct
+scene change (area replaced),0.0,0,sift,0.061,1674,995,777,affine,0.068,accepted_correct
+scene change (area replaced),0.0,0,orb,0.074,7161,1963,1393,affine,0.227,accepted_correct
+scene change (area replaced),0.0,1,sift,0.058,1626,861,668,affine,0.121,accepted_correct
+scene change (area replaced),0.0,1,orb,0.069,6565,1819,1266,affine,0.366,accepted_correct
+scene change (area replaced),0.0,2,sift,0.064,1622,902,710,affine,0.104,accepted_correct
+scene change (area replaced),0.0,2,orb,0.066,5741,1740,1250,affine,0.405,accepted_correct
+scene change (area replaced),0.3,0,sift,0.068,1854,562,423,affine,0.076,accepted_correct
+scene change (area replaced),0.3,0,orb,0.077,7219,1061,730,affine,0.301,accepted_correct
+scene change (area replaced),0.3,1,sift,0.086,1943,387,280,affine,0.08,accepted_correct
+scene change (area replaced),0.3,1,orb,0.073,6930,537,310,affine,0.368,accepted_correct
+scene change (area replaced),0.3,2,sift,0.073,1702,512,391,affine,0.13,accepted_correct
+scene change (area replaced),0.3,2,orb,0.08,6836,1079,739,affine,0.356,accepted_correct
+scene change (area replaced),0.6,0,sift,0.066,1916,152,79,affine,0.135,accepted_correct
+scene change (area replaced),0.6,0,orb,0.089,7224,178,38,affine,0.405,accepted_correct
+scene change (area replaced),0.6,1,sift,0.069,1951,142,75,affine,0.177,accepted_correct
+scene change (area replaced),0.6,1,orb,0.083,6786,211,50,affine,1.324,accepted_correct
+scene change (area replaced),0.6,2,sift,0.063,1770,225,149,affine,0.112,accepted_correct
+scene change (area replaced),0.6,2,orb,0.074,6988,308,149,affine,0.725,accepted_correct
+scene change (area replaced),0.8,0,sift,0.106,0,0,0,,,rejected
+scene change (area replaced),0.8,0,orb,0.119,0,0,0,,,rejected
+scene change (area replaced),0.8,1,sift,0.107,0,0,0,,,rejected
+scene change (area replaced),0.8,1,orb,0.114,0,0,0,,,rejected
+scene change (area replaced),0.8,2,sift,0.076,0,0,0,,,rejected
+scene change (area replaced),0.8,2,orb,0.118,0,0,0,,,rejected
+scene change (area replaced),0.9,0,sift,0.106,0,0,0,,,rejected
+scene change (area replaced),0.9,0,orb,0.121,0,0,0,,,rejected
+scene change (area replaced),0.9,1,sift,0.099,0,0,0,,,rejected
+scene change (area replaced),0.9,1,orb,0.111,0,0,0,,,rejected
+scene change (area replaced),0.9,2,sift,0.101,0,0,0,,,rejected
+scene change (area replaced),0.9,2,orb,0.116,0,0,0,,,rejected

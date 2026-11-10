@@ -1,0 +1,23 @@
+[
+  {
+    "run": "demo_sift",
+    "accepted": true,
+    "model": "affine",
+    "gt_rmse_px": 0.16102438328077762,
+    "gt_rmse_map": 1.6102438328077764
+  },
+  {
+    "run": "demo_orb",
+    "accepted": true,
+    "model": "affine",
+    "gt_rmse_px": 0.11643691048696521,
+    "gt_rmse_map": 1.164369104869652
+  },
+  {
+    "run": "perspective_sift",
+    "accepted": true,
+    "model": "homography",
+    "gt_rmse_px": 0.06747767138695036,
+    "gt_rmse_map": 0.6747767138695036
+  }
+]

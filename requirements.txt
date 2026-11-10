@@ -1,0 +1,8 @@
+numpy>=1.26
+scipy>=1.11
+opencv-python>=4.8
+rasterio>=1.3.9
+matplotlib>=3.8
+pytest>=8.0
+# GDAL's own Python bindings are OPTIONAL (only used by verify_metadata for an
+# independent cross-check). See README "Windows" for the safe way to install them.

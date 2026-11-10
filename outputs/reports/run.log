@@ -1,0 +1,114 @@
+09:00:41 INFO    SIFT: 4403 keypoints
+09:00:42 INFO    SIFT: 8001 keypoints
+09:00:42 INFO    match[sift/bf]: 4403 candidates -> 1515 accepted
+09:00:42 INFO    affine: 1161/1212 inliers, rmse 0.636 px
+09:00:42 INFO    homography: 1161/1212 inliers, rmse 0.636 px
+09:00:42 INFO    affine: 1017/1060 inliers, rmse 0.651 px
+09:00:42 INFO    affine: 1017/1060 inliers, rmse 0.626 px
+09:00:42 INFO    affine: 1021/1060 inliers, rmse 0.633 px
+09:00:42 INFO    affine: 1021/1060 inliers, rmse 0.628 px
+09:00:42 INFO    affine: 1021/1060 inliers, rmse 0.625 px
+09:00:42 INFO    affine: 1015/1060 inliers, rmse 0.641 px
+09:00:42 INFO    affine: 1016/1060 inliers, rmse 0.646 px
+09:00:42 INFO    affine: 1026/1060 inliers, rmse 0.635 px
+09:00:42 INFO    affine: 1017/1060 inliers, rmse 0.602 px
+09:00:42 INFO    affine: 1017/1060 inliers, rmse 0.638 px
+09:00:42 INFO    affine: 1015/1060 inliers, rmse 0.606 px
+09:00:42 INFO    affine: 1019/1060 inliers, rmse 0.650 px
+09:00:42 INFO    affine: 1023/1060 inliers, rmse 0.633 px
+09:00:42 INFO    affine: 1022/1060 inliers, rmse 0.626 px
+09:00:42 INFO    affine: 1015/1060 inliers, rmse 0.640 px
+09:00:42 INFO    affine: 1018/1060 inliers, rmse 0.627 px
+09:00:42 INFO    affine: 1014/1060 inliers, rmse 0.629 px
+09:00:42 INFO    affine: 1014/1060 inliers, rmse 0.630 px
+09:00:42 INFO    affine: 1019/1060 inliers, rmse 0.645 px
+09:00:42 INFO    affine: 1015/1060 inliers, rmse 0.663 px
+09:00:42 INFO    affine: 1009/1060 inliers, rmse 0.625 px
+09:00:42 INFO    affine: 1020/1060 inliers, rmse 0.624 px
+09:00:42 INFO    affine: 1021/1060 inliers, rmse 0.634 px
+09:00:42 INFO    affine: 1018/1060 inliers, rmse 0.636 px
+09:00:42 INFO    affine: 1020/1060 inliers, rmse 0.645 px
+09:00:42 INFO    affine: 1018/1060 inliers, rmse 0.629 px
+09:00:42 INFO    affine: 1018/1060 inliers, rmse 0.624 px
+09:00:42 INFO    affine: 1024/1060 inliers, rmse 0.616 px
+09:00:42 INFO    affine: 1016/1060 inliers, rmse 0.626 px
+09:00:42 INFO    affine: 1018/1060 inliers, rmse 0.639 px
+09:00:43 INFO    ORB: 8000 keypoints
+09:00:44 INFO    ORB: 8000 keypoints
+09:00:44 INFO    match[orb/bf]: 8000 candidates -> 2178 accepted
+09:00:44 INFO    affine: 1536/1742 inliers, rmse 1.414 px
+09:00:44 INFO    homography: 1530/1742 inliers, rmse 1.403 px
+09:00:44 INFO    affine: 1357/1524 inliers, rmse 1.428 px
+09:00:44 INFO    affine: 1355/1524 inliers, rmse 1.432 px
+09:00:44 INFO    affine: 1342/1524 inliers, rmse 1.424 px
+09:00:44 INFO    affine: 1348/1524 inliers, rmse 1.424 px
+09:00:44 INFO    affine: 1331/1524 inliers, rmse 1.383 px
+09:00:44 INFO    affine: 1335/1524 inliers, rmse 1.395 px
+09:00:44 INFO    affine: 1347/1524 inliers, rmse 1.394 px
+09:00:44 INFO    affine: 1358/1524 inliers, rmse 1.407 px
+09:00:44 INFO    affine: 1346/1524 inliers, rmse 1.411 px
+09:00:44 INFO    affine: 1351/1524 inliers, rmse 1.433 px
+09:00:44 INFO    affine: 1347/1524 inliers, rmse 1.422 px
+09:00:44 INFO    affine: 1357/1524 inliers, rmse 1.419 px
+09:00:44 INFO    affine: 1335/1524 inliers, rmse 1.413 px
+09:00:44 INFO    affine: 1356/1524 inliers, rmse 1.436 px
+09:00:44 INFO    affine: 1352/1524 inliers, rmse 1.426 px
+09:00:44 INFO    affine: 1355/1524 inliers, rmse 1.418 px
+09:00:44 INFO    affine: 1349/1524 inliers, rmse 1.400 px
+09:00:44 INFO    affine: 1342/1524 inliers, rmse 1.431 px
+09:00:44 INFO    affine: 1351/1524 inliers, rmse 1.416 px
+09:00:44 INFO    affine: 1339/1524 inliers, rmse 1.420 px
+09:00:44 INFO    affine: 1362/1524 inliers, rmse 1.446 px
+09:00:44 INFO    affine: 1336/1524 inliers, rmse 1.427 px
+09:00:44 INFO    affine: 1345/1524 inliers, rmse 1.421 px
+09:00:44 INFO    affine: 1351/1524 inliers, rmse 1.402 px
+09:00:44 INFO    affine: 1350/1524 inliers, rmse 1.411 px
+09:00:44 INFO    affine: 1353/1524 inliers, rmse 1.418 px
+09:00:44 INFO    affine: 1347/1524 inliers, rmse 1.424 px
+09:00:44 INFO    affine: 1356/1524 inliers, rmse 1.418 px
+09:00:44 INFO    affine: 1343/1524 inliers, rmse 1.414 px
+09:00:44 INFO    affine: 1352/1524 inliers, rmse 1.416 px
+09:00:45 INFO    SIFT: 3713 keypoints
+09:00:45 INFO    SIFT: 8001 keypoints
+09:00:45 INFO    match[sift/bf]: 3713 candidates -> 1998 accepted
+09:00:45 INFO    affine: 516/1598 inliers, rmse 1.502 px
+09:00:45 INFO    homography: 1561/1598 inliers, rmse 0.428 px
+09:00:46 INFO    homography: 1369/1398 inliers, rmse 0.431 px
+09:00:46 INFO    homography: 1368/1398 inliers, rmse 0.446 px
+09:00:46 INFO    homography: 1368/1398 inliers, rmse 0.421 px
+09:00:46 INFO    homography: 1373/1398 inliers, rmse 0.447 px
+09:00:46 INFO    homography: 1371/1398 inliers, rmse 0.431 px
+09:00:46 INFO    homography: 1367/1398 inliers, rmse 0.430 px
+09:00:46 INFO    homography: 1371/1398 inliers, rmse 0.437 px
+09:00:46 INFO    homography: 1369/1398 inliers, rmse 0.431 px
+09:00:46 INFO    homography: 1363/1398 inliers, rmse 0.432 px
+09:00:46 INFO    homography: 1368/1398 inliers, rmse 0.428 px
+09:00:46 INFO    homography: 1371/1398 inliers, rmse 0.433 px
+09:00:46 INFO    homography: 1370/1398 inliers, rmse 0.435 px
+09:00:46 INFO    homography: 1364/1398 inliers, rmse 0.442 px
+09:00:46 INFO    homography: 1372/1398 inliers, rmse 0.428 px
+09:00:46 INFO    homography: 1369/1398 inliers, rmse 0.426 px
+09:00:46 INFO    homography: 1366/1398 inliers, rmse 0.440 px
+09:00:46 INFO    homography: 1371/1398 inliers, rmse 0.424 px
+09:00:46 INFO    homography: 1372/1398 inliers, rmse 0.434 px
+09:00:46 INFO    homography: 1369/1398 inliers, rmse 0.423 px
+09:00:46 INFO    homography: 1369/1398 inliers, rmse 0.427 px
+09:00:46 INFO    homography: 1372/1398 inliers, rmse 0.416 px
+09:00:46 INFO    homography: 1366/1398 inliers, rmse 0.420 px
+09:00:46 INFO    homography: 1373/1398 inliers, rmse 0.433 px
+09:00:46 INFO    homography: 1368/1398 inliers, rmse 0.431 px
+09:00:46 INFO    homography: 1372/1398 inliers, rmse 0.413 px
+09:00:46 INFO    homography: 1367/1398 inliers, rmse 0.417 px
+09:00:46 INFO    homography: 1370/1398 inliers, rmse 0.416 px
+09:00:46 INFO    homography: 1373/1398 inliers, rmse 0.432 px
+09:00:46 INFO    homography: 1367/1398 inliers, rmse 0.438 px
+09:00:46 INFO    homography: 1366/1398 inliers, rmse 0.421 px
+09:02:25 INFO    SIFT: 4403 keypoints
+09:02:26 INFO    SIFT: 8001 keypoints
+09:02:26 INFO    match[sift/bf]: 4403 candidates -> 1515 accepted
+09:02:27 INFO    ORB: 8000 keypoints
+09:02:27 INFO    ORB: 8000 keypoints
+09:02:27 INFO    match[orb/bf]: 8000 candidates -> 2178 accepted
+09:02:29 INFO    SIFT: 3713 keypoints
+09:02:29 INFO    SIFT: 8001 keypoints
+09:02:29 INFO    match[sift/bf]: 3713 candidates -> 1998 accepted
